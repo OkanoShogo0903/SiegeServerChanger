@@ -8,6 +8,7 @@
 2. GameSettings.iniのあるファイルにServer_Changer.jarを置く
 3. Server_Changerを起動してサーバーの地域を指定
 '''
+
 設置したServer_Changerのショートカットをデスクトップに貼って楽に使ってください  
 エラーが表示されなかったらうまくいってます
 
