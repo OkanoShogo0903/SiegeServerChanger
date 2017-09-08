@@ -13,6 +13,8 @@
 設置したServer_Changerのショートカットをデスクトップに貼って楽に使ってください  
 エラーが表示されなかったらうまくいってます
 
+![ファイルの置き方](https://github.com/OkanoShogo0903/SiegeServerChanger/blob/master/files.png "ファイルの置き方")
+
 ## Author
 使い方、問い合わせは[製作者ツイッター](https://twitter.com/okanosyogo)
 までお願いします
