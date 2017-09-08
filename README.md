@@ -3,7 +3,7 @@
 [シージ公式](http://www.ubisoft.co.jp/r6s/)
 
 ## Installation & Usage(インストール方法、使い方)
-'''
+'''python
 1. Server_Changer.jarをzipダウンロード&解凍
 2. GameSettings.iniのあるファイルにServer_Changer.jarを置く
 3. Server_Changerを起動してサーバーの地域を指定
