@@ -9,6 +9,8 @@ RainbowSixSiege(PC版)のサーバーを簡単に変えるソフトです
 3.Server_Changerを起動してサーバーの地域を指定
 ```
 設置したServer_Changerのショートカットをデスクトップに貼って楽に使ってください
+
+
 エラーが表示されなかったらうまくいってます
 ## Author & Other
 使い方、問い合わせは[製作者ツイッター](https://twitter.com/okanosyogo)
