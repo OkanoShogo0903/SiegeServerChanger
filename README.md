@@ -1,6 +1,6 @@
 # SiegeServerChanger
 [シージ公式](http://www.ubisoft.co.jp/r6s/)
-RainbowSixSiege(PC版)のサーバーを簡単に変えるソフトです
+*RainbowSixSiege(PC版)のサーバーを簡単に変えるソフトです
 
 ## Installation & Usage(インストール方法、使い方)
 ```
@@ -12,10 +12,12 @@ RainbowSixSiege(PC版)のサーバーを簡単に変えるソフトです
 
 
 エラーが表示されなかったらうまくいってます
-## Author & Other
+## Author
 使い方、問い合わせは[製作者ツイッター](https://twitter.com/okanosyogo)
-までお願いします。
-Windowsにしか対応していません。
-このソフトによって発生した不利益や問題に関して製作者は一切責任を負いません。
+までお願いします
+## Other
+Windowsにしか対応していません
+
+このソフトによって発生した不利益や問題に関して製作者は一切責任を負いません
 ## Licence
 
